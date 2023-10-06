@@ -19,8 +19,8 @@ To Write a Program to log transformation on international airline passenger data
 /*4
 log transformation on international airline passenger data
 
-Developed by: Praveen s
-RegisterNumber:  212222240077
+Developed by: GOKUL VIJAYA RAMANUJA P
+RegisterNumber:  212222240030
 */
 import pandas as pd
 import numpy as np
